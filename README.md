@@ -1,5 +1,8 @@
 # HopalongAttractor
 
+-= Objective =-
+Create beautiful fractal images using Hopalong Attractor Functions. Small changes in variables and initial conditions greatly alter the pattern created by the hopalong function. Colors and fading were added for effect.
+
 -=Controls=-
 
 WASDQE: Move Camera
